@@ -2,6 +2,6 @@
 int main()
 {
 for(int i=0;i<34;i++)
-printf("%d",i);
+printf("%d\n",i);
 return 0;
 }
